@@ -1,0 +1,46 @@
+name: crf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python-crfsuite=0.9.6=py36hfa6e2cd_0
+  - backcall=0.1.0=py36_0
+  - blas=1.0=mkl
+  - certifi=2018.8.24=py36_1
+  - click=6.7=py36hec8c647_0
+  - colorama=0.3.9=py36h029ae33_0
+  - decorator=4.3.0=py36_0
+  - flask=1.0.2=py36_1
+  - icc_rt=2017.0.4=h97af966_0
+  - intel-openmp=2019.0=118
+  - ipython=6.5.0=py36_0
+  - ipython_genutils=0.2.0=py36h3c5d0ee_0
+  - itsdangerous=0.24=py36_1
+  - jedi=0.12.1=py36_0
+  - jinja2=2.10=py36_0
+  - markupsafe=1.0=py36hfa6e2cd_1
+  - mkl=2019.0=118
+  - mkl_fft=1.0.4=py36h1e22a9b_1
+  - mkl_random=1.0.1=py36h77b88f5_1
+  - numpy=1.15.1=py36ha559c80_0
+  - numpy-base=1.15.1=py36h8128ebf_0
+  - parso=0.3.1=py36_0
+  - pickleshare=0.7.4=py36h9de030f_0
+  - pip=10.0.1=py36_0
+  - prompt_toolkit=1.0.15=py36h60b8f86_0
+  - pygments=2.2.0=py36hb010967_0
+  - python=3.6.6=hea74fb7_0
+  - scikit-learn=0.19.1=py36hae9bb9f_0
+  - scipy=1.1.0=py36h4f6bf74_1
+  - setuptools=40.2.0=py36_0
+  - simplegeneric=0.8.1=py36_2
+  - six=1.11.0=py36_1
+  - traitlets=4.3.2=py36h096827d_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wcwidth=0.1.7=py36h3d5aa90_0
+  - werkzeug=0.14.1=py36_0
+  - wheel=0.31.1=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+prefix: C:\Users\rhiggins\AppData\Local\conda\conda\envs\crf
+
